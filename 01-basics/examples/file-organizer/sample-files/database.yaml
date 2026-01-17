@@ -1,8 +1,0 @@
-database:
-  host: localhost
-  port: 5432
-  name: myapp
-  user: admin
-  pool:
-    min: 2
-    max: 10
