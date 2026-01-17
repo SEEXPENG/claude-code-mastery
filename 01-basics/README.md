@@ -1,6 +1,6 @@
-# Phase 1-2: Foundation & Basic Tools
+# 📌 This Structure Has Moved!
 
-Master the fundamental Claude Code tools: Read, Write, Edit, Glob, Grep, Bash, and TodoWrite.
+This repository has been **refactored to focus on outcomes, not tools**.
 
 ## Learning Objectives
 
