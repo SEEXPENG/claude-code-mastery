@@ -1,0 +1,9 @@
+{
+  "name": "file-organizer",
+  "version": "1.0.0",
+  "settings": {
+    "theme": "dark",
+    "autoSave": true,
+    "maxFileSize": "10MB"
+  }
+}
